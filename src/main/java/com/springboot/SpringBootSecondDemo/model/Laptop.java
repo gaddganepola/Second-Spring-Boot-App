@@ -1,4 +1,4 @@
-package com.springboot.SpringBootSecondDemo;
+package com.springboot.SpringBootSecondDemo.model;
 
 import org.springframework.stereotype.Component;
 
